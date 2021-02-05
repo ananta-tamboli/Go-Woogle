@@ -7,10 +7,10 @@ class TwitterClient(object):
     #Generic Twitter Class for sentiment analysis.
     def __init__(self):
         # keys and tokens from the Twitter Dev Console
-        consumer_key = 'wKs4oj5j7EpRh5WuOjz5smPj6'
-        consumer_secret = 'XVnMSaQqkAnH3l9CssedNNgQehOpkvlpRaIwDTTMjU7Byxyw6o'
-        access_token = '897431456842039296-si6Y2NTTNrGVsVsJS5hX6bs46dGLurV'
-        access_token_secret = 'eC8VhlQZ1hbrnN3PuDBf7i4ZO5Iq6oHaFaxRdofXibeXf'
+        consumer_key = ''
+        consumer_secret = ''
+        access_token = ''
+        access_token_secret = ''
  
         # attempt authentication
         try:
